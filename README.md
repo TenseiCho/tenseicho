@@ -5,7 +5,7 @@
       <img src="dotabuff.png" alt="Dotabuff Profile" width="30" height="30">
     </a>
     <a href="https://www.youtube.com/channel/UCF4PesxqAZPBKlcg3OcrWhQ" target="_blank">
-      <img src="yt.png" alt="YouTube Channel" width="50" height="50">
+      <img src="yt.png" alt="YouTube Channel" width="40" height="40">
     </a>
   </div>
 </div>
