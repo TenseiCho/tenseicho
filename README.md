@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Student of Life</h2>
-  <div class="icon-container">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://www.dotabuff.com/players/47357101" target="_blank">
       <img src="dotabuff.png" alt="Dotabuff Profile" width="50" height="50">
     </a>
@@ -9,11 +9,3 @@
     </a>
   </div>
 </div>
-
-<style>
-  .icon-container {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-</style>
